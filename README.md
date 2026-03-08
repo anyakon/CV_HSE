@@ -34,7 +34,9 @@
 
 > Первый кадр:
 <img width="1465" height="817" alt="image" src="https://github.com/user-attachments/assets/878493b3-b7af-4a0e-b3aa-ffd806841195" />
+
 > Последний кадр:
+
 <img width="1453" height="814" alt="image" src="https://github.com/user-attachments/assets/e9d874e8-551d-49fb-bbb6-889a48dbcf4f" />
 
 
@@ -108,11 +110,14 @@
 > **Texture**:
 <img width="1919" height="1073" alt="image" src="https://github.com/user-attachments/assets/36fdcfa0-4fda-4245-a975-bf375becfa17" />
 
+
 > **Motion Blur**:
 <img width="1911" height="1075" alt="image" src="https://github.com/user-attachments/assets/9dc5905f-6154-4324-8a36-907a695a32e7" />
 
+
 > **Тени**:
 <img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/64716d60-ad99-4c49-bda3-e00f82ff159b" />
+
 
 > **Шум**:
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/fba01817-b60b-4589-804b-22ebf963d746" />
